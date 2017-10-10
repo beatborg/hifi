@@ -70,3 +70,4 @@ To access your local domain in Interface, open your Preferences -- on OS X this 
 
 If everything worked you should see that you are connected to at least one server.
 Nice work!
+
